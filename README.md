@@ -12,3 +12,9 @@ Presentation: https://docs.google.com/presentation/d/18bXIyBNCG663PSgNboudKBpVoR
 
 ## 04_data_analytics
 Presentation: https://docs.google.com/presentation/d/1XwHbsEn7BowNwomCho9t1IOn41cGnIDjP-rqRrUPLMY/edit?usp=sharingx
+
+## 05_data_visualization
+Presentation: https://docs.google.com/presentation/d/1TumvryegW9r0pTham2OuZttHLwZkiNiEdG6brm5b8FI/edit?usp=sharing
+
+## 06_machine_learning
+Presentation: https://docs.google.com/presentation/d/1ImTORrN2LMwKtAHOTkhYt_UyVnLHDTGTnGFpIUQNGcA/edit?usp=sharings
