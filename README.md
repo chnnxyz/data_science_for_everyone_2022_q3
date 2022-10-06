@@ -18,3 +18,6 @@ Presentation: https://docs.google.com/presentation/d/1TumvryegW9r0pTham2OuZttHLw
 
 ## 06_machine_learning
 Presentation: https://docs.google.com/presentation/d/1ImTORrN2LMwKtAHOTkhYt_UyVnLHDTGTnGFpIUQNGcA/edit?usp=sharings
+
+## 07_API_cloudbasics_flask
+Presentation: https://docs.google.com/presentation/d/1eDBM2DZ_1zRSbL2EIzQzQcpSQu-Ak-gHjgNpi6Mz6Xs/edit?usp=sharing 
