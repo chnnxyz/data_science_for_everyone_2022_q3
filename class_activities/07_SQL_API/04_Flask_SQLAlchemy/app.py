@@ -1,14 +1,12 @@
 from flask import Flask, render_template, request, jsonify
 import json
-from flask_sqlalchemy import SQLAlchemy
 import psycopg2
 import psycopg2.extras
-import dotenv
+# import dotenv
 import os
-from flask_migrate import Migrate
 import pandas as pd
 
-dotenv.load_dotenv()
+# dotenv.load_dotenv()
 
 app = Flask(__name__)
 
@@ -83,4 +81,4 @@ def query(table):
 
 
 if __name__=='__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0')
