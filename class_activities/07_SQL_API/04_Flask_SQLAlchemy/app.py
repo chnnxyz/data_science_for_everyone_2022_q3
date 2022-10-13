@@ -2,11 +2,10 @@ from flask import Flask, render_template, request, jsonify
 import json
 import psycopg2
 import psycopg2.extras
-import dotenv
 import os
 import pandas as pd
 
-dotenv.load_dotenv()
+
 
 app = Flask(__name__)
 
